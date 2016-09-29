@@ -1,0 +1,49 @@
+﻿TRANG CHỦ 
+ - Slider: 
+ 1  TIN HỌC VĂN PHÒNG CHUẨN QUỐC TẾ
+   Các lớp học tin học văn phòng A, B, C
+ 2 TỔNG KHAI GIANG NGÀY 25/9/2016
+    Lập trình android, Lập trình OIS, Lập trình java
+ 3 KHAI GIẢNG CÁC KHÓA HỌC MỚI
+   QUẢN TRỊ HẠ TẦNG MẠNG
+   QUẢN TRỊ HỆ THỐNG MẠNG
+   AN NINH MẠNG
+ 4 THIẾT KẾ ĐỒ HỌA 2D
+   Cho người mói bắt đầu: chỉnh sửa ảnh, thiết kế Brochure, Poster, bìa sách, tạp chí, Logo, Letter head,...
+ [content]
+  TIN TỨC - SỰ KIỆN
+GIỚI THIỆU: Trung tâm là địa chỉ học tập công nghệ thông tin uy tín và chất lượng cho các   bạn đam mê khám phá và ứng dụng CNTT vào đời sống.
+
+THÔNG BÁO: Đổi lịch học ngày 20/9/2016, 
+
+LỊCH KHAI GIẢNG: Khai giảng các khóa học Android ngày 25/9/2016 cho người mới bắt đầu.
+
+GIỚI THIỆU VIỆC LÀM: Giúp học viên tiếp cận cơ hội việc làm từ các doanh nghiệp
+TÀI LIỆU HỌC TẬP: Chia sẻ kho tài liệu học tập miễn phí, đa dạng phong phú.
+
+CHÍNH SÁCH ƯU ĐÃI: Học viên đã đăng ký được giảm 20% học phí, Học viên tốt nghiệp chương trình dài hạn của tring tâm được giảm 30% học phí.
+
+GIỚI THIỆU
+- Slider: 
+Đội ngũ giảng viên:
+Thông tin thêm về giảng viên
+NGUYỄN VĂN ANH
+Thủ khoa đầu ra khoa CNTT trường ĐH Sư phạm ký thuật. Có kinh nghiệm lập trình Android, IOS,... Đã từng làm việc ở Singapore.
+PHẠM THU PHƯƠNG
+Tốt nghiệp trường ĐH Khoa học tự nhiên khoa CNTT. Có kinh nghiệm làm việc ở FPT. Master bảo mật thông tin.
+
+TIN TỨC- SỰ KIỆN
+1. THÔNG TIN ƯU ĐÃI HỌC PHÍ
+CHÍNH SÁCH ƯU ĐÃI: Học viên đã đăng ký được giảm 20% học phí, Học viên tốt nghiệp chương trình dài hạn của tring tâm được giảm 30% học phí.
+ƯU DÃI ĐẶC BIỆT:
+	Lập tình IOS chỉ còn 4000000đ/khóa
+	Thiết kế đồ họa 2D chỉ còn 34000000đ/khóa
+CÁCH CHIA SẺ DỮ LIỆU QUA MẠNG LAN TRÊN WINDOW 10
+	LAN là viết tắt của cụm từ Local Area Network (hay còn gọi là mạng máy tính cục bộ) nó là một hệ thống mạng giúp người dùng có thể kết nối 2 hay nhiều máy tính với nhau trong một phạm vi nhỏ và thường được sử dụng trong các cơ quan, trường học, công ty..
+	
+	
+
+
+  
+   
+	

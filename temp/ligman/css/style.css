@@ -1,0 +1,29 @@
+/* Đổi màu thanh cuộn trình duyệt */
+::-webkit-scrollbar {
+	background:#E4DDDF;
+	width:10px;
+	height:10px;
+}
+::-webkit-scrollbar-thumb {
+	background:#9C9C9C;
+}
+
+.navbar{
+	z-index: 10000 !important;
+}
+/*BACK TO TOP*/
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    display:none;
+}
+
+.affix {
+    top: 0px;
+    width: 100%;
+}
+.affix + .container {
+    padding-top: 80px;
+}

@@ -1,0 +1,41 @@
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 28 Sep 2016 11:42:13 at http://demo.danurstrap.com/kallem/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.danurstrap.com/kallem/ -O1 "C:\Users\Nguyen Hoang Chuong\Desktop\New folder\chuongnh" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:42:14	Error: 	"Internal Server Error" (500) after 2 retries at link demo.danurstrap.com/robots.txt (from primary/primary)
+11:47:13	Warning: 	Retry after error 500 (Internal Server Error) at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.eot (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:13	Warning: 	Retry after error 500 (Internal Server Error) at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.eot? (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:13	Warning: 	Retry after error 500 (Internal Server Error) at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.woff2 (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:13	Warning: 	Retry after error 500 (Internal Server Error) at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.woff (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:13	Warning: 	Retry after error 500 (Internal Server Error) at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.ttf (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:14	Warning: 	Retry after error 500 (Internal Server Error) at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.svg (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:14	Warning: 	File not parsed, looks like binary: demo.danurstrap.com/kallem/fonts/raleway/raleway-black-webfont.woff2
+11:47:14	Warning: 	File not parsed, looks like binary: demo.danurstrap.com/kallem/fonts/raleway/raleway-bold-webfont.woff2
+11:47:14	Warning: 	File not parsed, looks like binary: demo.danurstrap.com/kallem/fonts/raleway/raleway-regular-webfont.woff2
+11:47:14	Warning: 	File not parsed, looks like binary: demo.danurstrap.com/kallem/fonts/raleway/raleway-thin-webfont.woff2
+11:47:14	Warning: 	File not parsed, looks like binary: demo.danurstrap.com/kallem/fonts/FontAwesome/fontawesome-webfont.woff2?v=4.5.0
+11:47:32	Warning: 	Retry after error 500 () at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.eot (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:32	Warning: 	Retry after error 500 () at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.eot? (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:32	Warning: 	Retry after error 500 () at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.woff2 (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:32	Warning: 	Retry after error 500 () at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.woff (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:32	Warning: 	Retry after error 500 () at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.ttf (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:32	Warning: 	Retry after error 500 () at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.svg (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:32	Warning: 	Retry after error 500 (Internal Server Error) at link demo.danurstrap.com/kallem/load/html/blog-masonry/load/html/blog2/blog3.html (from demo.danurstrap.com/kallem/load/html/blog-masonry/blog2.html)
+11:47:32	Warning: 	Retry after error 500 (Internal Server Error) at link demo.danurstrap.com/kallem/load/html/blog/load/html/blog/blog3.html (from demo.danurstrap.com/kallem/load/html/blog/blog2.html)
+11:47:32	Error: 	"" (500) after 2 retries at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.eot (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:32	Error: 	"" (500) after 2 retries at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.eot? (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:32	Error: 	"" (500) after 2 retries at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.woff2 (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:32	Error: 	"" (500) after 2 retries at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.woff (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:32	Error: 	"" (500) after 2 retries at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.ttf (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:32	Error: 	"" (500) after 2 retries at link demo.danurstrap.com/kallem/fonts/glyphicons-halflings-regular.svg (from demo.danurstrap.com/kallem/css/bootstrap.min.css)
+11:47:32	Warning: 	Retry after error 500 () at link demo.danurstrap.com/kallem/load/html/blog-masonry/load/html/blog2/blog3.html (from demo.danurstrap.com/kallem/load/html/blog-masonry/blog2.html)
+11:47:32	Warning: 	Retry after error 500 () at link demo.danurstrap.com/kallem/load/html/blog/load/html/blog/blog3.html (from demo.danurstrap.com/kallem/load/html/blog/blog2.html)
+11:47:32	Error: 	"" (500) after 2 retries at link demo.danurstrap.com/kallem/load/html/blog-masonry/load/html/blog2/blog3.html (from demo.danurstrap.com/kallem/load/html/blog-masonry/blog2.html)
+11:47:32	Error: 	"" (500) after 2 retries at link demo.danurstrap.com/kallem/load/html/blog/load/html/blog/blog3.html (from demo.danurstrap.com/kallem/load/html/blog/blog2.html)
+
+HTTrack Website Copier/3.48-22 mirror complete in 5 minutes 19 seconds : 210 links scanned, 185 files written (8867726 bytes overall) [8279345 bytes received at 25954 bytes/sec], 778526 bytes transferred using HTTP compression in 32 files, ratio 16%
+(9 errors, 21 warnings, 0 messages)
